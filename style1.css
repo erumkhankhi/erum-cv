@@ -1,0 +1,25 @@
+*{
+    margin: 10;
+    padding: 5;
+}
+.border h1{
+    margin-left: 10px;
+    padding-left: 12px;
+}
+.card-header {
+    margin-left: 10px;
+    padding-left: 15px;
+    background-color: rgb(191, 236, 236);
+}
+.row {
+    background-color: rgb(191, 236, 236);
+}
+.h1 {
+    margin: 8%;
+    padding: 5%;
+
+}
+.hero {
+    padding-left: 10px;;
+margin-left: 15px;
+}
